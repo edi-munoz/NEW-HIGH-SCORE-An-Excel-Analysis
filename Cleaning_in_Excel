@@ -1,0 +1,18 @@
+Cleaning procedures in Excel
+- Clean white spaces (TRIM)
+- Select and treat all blanks or missing values
+- Convert numbers stored as text into solely numbers
+- Remove duplicates
+- Highlight errors through conditional formatting
+- Change casing (LOWER, UPPER, PROPER)
+- Split data and merge (RIGHT, LEFT, MID, SPLIT, CONCATENATE)
+- Delete irrelevant columns
+- Spell check
+- Delete all pre-existing formatting
+- Use Find & Replace to clean data (REPLACE, SUBSTITUTE)
+- Resize columns
+- Rename columns
+- Format data types
+- Address outliers
+- Delete hidden data
+- Check for truncated entries and inconsistent entries
