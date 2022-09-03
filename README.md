@@ -6,7 +6,7 @@ This repository contains my end-of-course case study from Coursera's "Google Dat
 ### Ask 
 - What are the top ten highest rated games to play, according to critics?
 - What are the top ten most popular games to play, according to gamers?
-- What is the must play games by platform?
+- What are the must play games by platform?
 ---
 ### Prepare
 The next step involved me finding a dataset. I found a public dataset titled "[Top Video Games 1995-2021 Metacritic]"(https://www.kaggle.com/datasets/deepcontractor/top-video-games-19952021-metacritic?resource=download) by a user named "Deep Contractor," with a usability of 10.0. (For those not familiar with Kaggle's [usability rating](https://www.kaggle.com/product-feedback/93922), it is a numeric value indictating how user-friendly is the dataset based on a number of factors such as documentation and metadata.) A [metacritic score](https://www.metacritic.com/faq#item11) is the average of reviews from critics and publications, which are converted into numeric values on a 0-100 point scale. There are 6 columns which have details surrounding specific games. Below are the first few rows:
@@ -35,7 +35,7 @@ I needed to clean up this data, so I could analyze it to answer my questions. I 
 - Converted 'Parent_Company' to values ONLY, replacing customized nested IF functions
 - Split 'release_date' into 'Release_date' and 'Release_Year' columns
 
-[My list of changes are influenced by a compiled list of cleaning steps in Excel that I created from researching articles online.]
+(My list of changes are influenced by a compiled list of cleaning steps in Excel that I created from researching articles online.)
 ---
 ### Analyze
 
