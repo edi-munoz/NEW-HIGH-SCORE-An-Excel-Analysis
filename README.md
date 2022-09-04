@@ -1,6 +1,6 @@
 # NEW HIGH SCORE: An analysis of meta critic scores in video games from 1995-2021
 ## [Data cleaning and visualization through Excel]
-### Introduction (This is my first project in data analysis and my first repository on GitHub.) 
+### Introduction (This is my first project in data analysis and my first repository on GitHub.)
 This repository contains my end-of-course case study from Coursera's "Google Data Analytics Professional Certificate," where I was instructed to choose and analyze a public dataset that peaked my interest. I decided on video games, because they have been with me since I was little as video games have helped me in decompressing from stress and forming connections with others. Using the framework of *Ask, Prepare, Process, Analyze, Share, Act*, I began to think about my most important resource as a gamer: time. I thought, *As I get older, I feel like I get less time to play video games, and I want to experience games that are stunning and well worth the time.* So I then decided to start asking some questions that address me (the stakeholder) and my curiosity of what other people have enjoyed. 
 ---
 ### Ask 
@@ -34,9 +34,8 @@ I needed to clean up this data, so I could analyze it to answer my questions. I 
 - Added a 'Parent_Company' column
 - Converted 'Parent_Company' to values ONLY, replacing customized nested IF functions
 - Split 'release_date' into 'Release_date' and 'Release_Year' columns
-- 
 
-(My list of changes are influenced by a compiled list of cleaning steps in Excel that I created from researching articles online.)
+My list of changes are influenced by a compiled list of cleaning steps in Excel that I created from researching articles online. 
 ---
 ### Analyze
 
