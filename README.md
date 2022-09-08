@@ -19,10 +19,8 @@ The next step involved me finding a dataset. I found a public dataset titled "[T
 | SoulCalibur                          | Dreamcast     | September 8, 1999  | This is a tale of souls and swords, transcending ... | 98         | 8.4         |
 ---
 ### Process
-I needed to clean up this data, so I could analyze it to answer my questions. I made the following changes to the original data, which are influenced by this list 
-[insert weblink]
+I needed to clean up this data, so I could analyze it to answer my questions. I made the following changes to the original data, which are influenced by this [list]( https://github.com/edi-munoz/NEW-HIGH-SCORE-An-Excel-Analysis/blob/6b9110cb7a5656329c89c3427d0aca138c2856ab/Cleaning_in_Excel.docx) of procedures that I compiled from numerous articles online. 
 
-of procedures that I compiled from numerous articles online. 
 - Deleted 'summary' column
 - Resized columns
 - Added border under header row
@@ -61,4 +59,4 @@ My data tells me that scores in the 90's were in the upper 70s, but then there w
 ---
 ### Act
 
-As far as additional data goes, I would like to scrape data on the genre of these video games to further explore how genres compare in meta score. The data from this insight made me reflect as to why Nintendo has more games in the top 10 than another other company; I wonder how fictious characters and stories can have such an impact on people, and then I think as to how art can be so powerful over the human mind. 
+As far as additional data goes, I would like to scrape data on the genre of these video games to further explore how genres compare in meta score. The data from this insight made me reflect as to why Nintendo has more games in the top 10 than another other company; it made me wonder how fictious characters and stories can have such an impact on people, and then I think as to how art can be so powerful over the human mind. 
