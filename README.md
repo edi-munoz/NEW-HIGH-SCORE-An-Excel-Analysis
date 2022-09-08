@@ -21,20 +21,20 @@ The next step involved me finding a dataset. I found a public dataset titled "[T
 ### Process
 I needed to clean up this data, so I could analyze it to answer my questions. I made the following changes to the original data, which are influenced by this [list]( https://github.com/edi-munoz/NEW-HIGH-SCORE-An-Excel-Analysis/blob/6b9110cb7a5656329c89c3427d0aca138c2856ab/Cleaning_in_Excel.docx) of procedures that I compiled from numerous articles online. 
 
-- Deleted 'summary' column
+- Deleted `summary` column
 - Resized columns
 - Added border under header row
 - Removed duplicates
 - Used proper casing for header row
 - Cleared formatting
-- Trimmed 'platform' column
-- Formatted 'release_date' column
-- Filtered out 'TBD' from 'user_review' column
-- Formatted numbering in 'user_review column
-- Sorted Z-A in both 'meta_score' and 'user_review'
-- Added a 'Parent_Company' column
-- Converted 'Parent_Company' to values ONLY, replacing customized nested IF functions
-- Split 'release_date' into 'Release_date' and 'Release_Year' columns
+- Trimmed `platform` column
+- Formatted `release_date` column
+- Filtered out 'TBD' from `user_review` column
+- Formatted numbering in `user_review` column
+- Sorted Z-A in both `meta_score` and `user_review`
+- Added a `Parent_Company` column
+- Converted `Parent_Company` to values ONLY, replacing customized nested IF functions
+- Split `release_date` into `Release_date` and `Release_Year` columns
 
 ---
 ### Analyze
