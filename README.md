@@ -43,6 +43,7 @@ After cleaning the dataset, I went ahead and turned my data into a table. From t
 ![percent_games](/images/percent_games_by_platform.png)
 
 Afterwards, I visualized how meta (metacritic) scores have changed over the years by parent company. I decided on parent company to see the general overarching picture that goes past the plethora of platforms.
+![meta_year](/images/meta_by_year.png)
 
 In analyzing the highest rated games by parent company, I organized the table by parent groups and their respective max meta scores. To find what games matched with what score, I included a `=FILTER` into my table array on the "all_games_transformed" sheet. [I knew most of the games except for *Disco Elysium* and *Get Packed*.]
 ![Highest_rated](/images/Highest_rated_parent_co.png)
