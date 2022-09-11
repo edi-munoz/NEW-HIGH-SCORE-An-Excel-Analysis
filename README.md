@@ -40,19 +40,22 @@ I needed to clean up this data, so I could analyze it to answer my questions. I 
 ### Analyze
 
 After cleaning the dataset, I went ahead and turned my data into a table. From there I transformed it into a pivot table and chart and onto a new sheet, which I duplicated onto two other sheet. Out of curiosity, I looked out how my data was divided by platform first. 
+![percent_games](/images/percent_games_by_platform.png)
 
 Afterwards, I visualized how meta (metacritic) scores have changed over the years by parent company. I decided on parent company to see the general overarching picture that goes past the plethora of platforms.
 
 In analyzing the highest rated games by parent company, I organized the table by parent groups and their respective max meta scores. To find what games matched with what score, I included a `=FILTER` into my table array on the "all_games_transformed" sheet. [I knew most of the games except for *Disco Elysium* and *Get Packed*.]
+![Highest_rated](/images/Highest_rated_parent_co.png)
 
 Finally, to analyze the top 10 games in meta score, I created a new column `User_Review_Modified` from multiplying user scores by 10, which allowed me to have a better idea of how user (scored 0-10) and meta scores (scored 0-100) compared to each other, especially when visualizing the data. Unfortunately, I could not add an extra sort layer, and I decided on sorting by meta score first and foremost; additionally, games were tied in both meta and user score, which is whhy I included more games into my "Top 10" list. 
+![Top_10](/images/Top_10_meta.png)
 
 ---
 ### Share 
 
 Below is a screenshot of my dashboard created on Excel. 
 
-[insert image] 
+![Dashboard](/images/Dashboard.png) 
 
 My data tells me that scores in the 90's were in the upper 70s, but then there was a sharp decline entering the 2000s. I find that fascinating, and I wonder why that is. Fortunately, games have been since steadily increasing in an upward trend, which tells me that we are seeing a rise in quality gaming, a sort of gaming rennaissance. Unsurprisingly, most of the games that are, in a sense, representative of its parent company by being the highest rated in that company, are in the list of top 10 games. Interestingly, the majority of games that received the highest meta scores are games by Nintendo. 
 
